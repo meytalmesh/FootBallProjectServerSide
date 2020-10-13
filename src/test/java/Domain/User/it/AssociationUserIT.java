@@ -1,5 +1,5 @@
 package Domain.User.it;
-
+//
 import Data.SystemDB.DB;
 import Data.SystemDB.DataBaseInterface;
 import Domain.AssociationManagement.BudgetManagement;
